@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  background-color: rgb(102, 130, 182);
+}
+.pic{
+  border-color: black;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+.h3{
+  font-family: 'Oswald', sans-serif;
+}
